@@ -9,7 +9,7 @@ const About = () => {
             <div className="About-container">
                 <Avatar>
                     <figure>
-                        <Img src="https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg" alt="Mi Avatar"/>
+                        <Img src="/" alt="Mi Avatar"/>
                     </figure>
                 </Avatar>
                 <Name>
